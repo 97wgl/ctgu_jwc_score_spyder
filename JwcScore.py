@@ -6,8 +6,8 @@ import os
 from bs4 import BeautifulSoup
 from PIL import Image
 
-sno = "2015111159"   # 学号
-pwd = "2076984"   # 密码
+sno = "2015114103"   # 学号
+pwd = ""   # 密码
 
 # 登录时需要提交的表单数据
 postData = {
